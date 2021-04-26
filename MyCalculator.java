@@ -4,6 +4,7 @@ to compile it use
     javac MyCalculator.java 
 to use the calcuator do this 
     java MyCalculator 
+    //Test
  
 **********************************************/  
 import java.awt.*;  
